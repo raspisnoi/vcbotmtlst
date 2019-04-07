@@ -32,4 +32,4 @@ async def on_ready():
     print(bot.user.id)
     print('------')
 
-bot.run(DISCORD_TOKEN)
+bot.run(NTY0NTQ4NTk4NTI4ODY4MzU4.XKpoKA.0ZkeQgv4xhZl6yVs909CNiNzRE0)
